@@ -1,4 +1,4 @@
-apply plugin: 'java'
+apply plugin: 'groovy'
 apply plugin: 'maven'
 
 group = "bravo"
@@ -15,3 +15,9 @@ uploadArchives {
         }
     }
 }
+
+
+
+
+
+
